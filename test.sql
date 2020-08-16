@@ -1,1 +1,1 @@
-select * from test.test where test.id = 1;
+select * from test.test where test.id = 1 limit 10;
